@@ -23,17 +23,20 @@ I'm learning Python from the beginning. The plan is not a fixed curriculum: I ch
 
 ## Projects
 
-No projects have been added yet. Each one will appear here, with a link to its folder, as I build it.
+Each project links to its own folder and README.
 
 | Project | Level | Concepts | Description |
 |---|---|---|---|
-| _Coming soon_ | | | |
+| [Weekly Pay Calculator](beginner/pay-calculator/) | Beginner | Conditionals, user input, f-strings | Command-line calculator that works out regular pay, overtime, tax and take-home pay from hours worked and an hourly rate. |
 
 ## Skills & Concepts
 
 This section lists only concepts that are demonstrated by a project in this repository. It will grow as the projects do.
 
-_Nothing listed yet._
+- **Python fundamentals:** variables, user input, type conversion, arithmetic
+- **Control flow:** `if` / `elif` / `else`, nested conditions
+- **Input validation:** rejecting invalid values with conditions
+- **Formatted output:** f-strings and number formatting
 
 ## Repository Structure
 
