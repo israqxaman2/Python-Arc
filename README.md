@@ -28,6 +28,7 @@ Each project links to its own folder and README.
 | Project | Level | Concepts | Description |
 |---|---|---|---|
 | [Employee Profile Formatter](beginner/employee-profile-formatter/) | Beginner | Strings, concatenation, f-strings, slicing | Script that builds an employee profile from sample data and extracts parts of an employee code with string slicing. |
+| [Area and Perimeter Calculator](beginner/area-perimeter-calculator/) | Beginner | Menus, conditionals, input validation, formulas | Command-line calculator for the area and perimeter (or circumference) of a circle, triangle or rectangle. |
 | [Weekly Pay Calculator](beginner/pay-calculator/) | Beginner | Conditionals, user input, f-strings | Command-line calculator that works out regular pay, overtime, tax and take-home pay from hours worked and an hourly rate. |
 
 ## Skills & Concepts
@@ -35,7 +36,7 @@ Each project links to its own folder and README.
 This section lists only concepts that are demonstrated by a project in this repository. It will grow as the projects do.
 
 - **Python fundamentals:** variables, user input, type conversion, arithmetic
-- **Strings:** concatenation, f-strings, indexing and slicing
+- **Strings:** concatenation, f-strings, indexing and slicing, basic methods (`lower()`, `strip()`)
 - **Control flow:** `if` / `elif` / `else`, nested conditions
 - **Input validation:** rejecting invalid values with conditions
 - **Formatted output:** f-strings and number formatting
